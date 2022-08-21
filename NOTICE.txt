@@ -1,0 +1,3 @@
+This project includes MIT-licensed software located at the URL below and developed by freedesktop.org (X.Org Foundation):
+
+https://gitlab.freedesktop.org/gstreamer/gst-template
